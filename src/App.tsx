@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import './App.css'
 import Title from "./components/title";
 import Intro from "./components/intro";

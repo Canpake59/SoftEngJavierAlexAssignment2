@@ -27,6 +27,10 @@
   color: white;
 }
 
+body {
+  background-color: ivory;
+  color: black;
+}
 hr {
   display: block;
   height: 1px;

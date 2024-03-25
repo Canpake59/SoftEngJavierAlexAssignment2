@@ -20,7 +20,6 @@ function Intro({ names }: IntroProps) {
             </section>
             <hr/>
         </div>
-
     )
 }
 
